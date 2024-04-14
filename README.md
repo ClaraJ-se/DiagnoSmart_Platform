@@ -1,9 +1,9 @@
 # DiagnoSmart_Platform
 
-Please list each deliverable title and description in the list below after introducing it inside the repository
+Here is the list of each optional deliverable title and description in the list below after introducing it inside the repository
 Expected list so far:
 - app executable
-- figma
+- figma slides
 - AI model
 - reference dataset (after cleaning) ?
 - interviews
