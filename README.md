@@ -7,7 +7,7 @@ Expected list so far:
 - Tablet application:
   - Code 
   - Video of use
-- Link to figma slides: https://www.figma.com/file/zmUYRbLnMpJVZa1VadGEI3/DiagnoSmart-Platform?type=design&node-id=0%3A1&mode=design&t=Hc87D0MKHovL0NfN-1
+- Link to figma slides:https://drive.google.com/file/d/1gTXDJbMvBTHWCd6muJ34qIKBX453_W56/view?usp=drive_link
 - AI folder:
   - AI model
   - Statistical analysis report (pdf)
