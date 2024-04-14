@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DiagnoSmart Platform</string>
+
+    <string name="error_common">Error</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_sign_in">Log in</string>
+
+    <string name="test">test</string>
+
+    <string name="tab_home">Home</string>
+    <string name="tab_1">Symptoms</string>
+    <string name="tab_2">Patient History</string>
+    <string name="tab_3">Results</string>
+    <string name="add_patient">+ Add patient</string>
+
+</resources>
