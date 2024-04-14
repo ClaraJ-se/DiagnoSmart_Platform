@@ -9,5 +9,7 @@ Expected list so far:
   - Video of use
 - Link to figma slides:https://drive.google.com/file/d/1gTXDJbMvBTHWCd6muJ34qIKBX453_W56/view?usp=drive_link
 - AI folder:
-  - AI model
+  - Data wrangling scripts
+  - Data analysis notebook
+  - AI model and training scripts
   - Statistical analysis report (pdf)
