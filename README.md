@@ -11,4 +11,3 @@ Expected list so far:
 - AI folder:
   - AI model
   - Statistical analysis report (pdf)
-  - reference dataset (after cleaning) ?
